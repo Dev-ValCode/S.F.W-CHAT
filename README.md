@@ -1,12 +1,1 @@
-FOR TERMUX
--------------
-git clone https://github.com/JixxieTrolledRulez/S.F.W-CHAT
----------------------------
-cd S.F.W-CHAT
-------------------
-FOR SERVER
-python S.F.W.Chat.py
-------------------
-FOR CLIENT
-python S.F.W.Client.py
-------------------
+How to use if you have a Windows 10/11 computer download the folder from Github and then start
