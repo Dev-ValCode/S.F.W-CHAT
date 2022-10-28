@@ -1,4 +1,5 @@
 git clone https://github.com/JixxieTrolledRulez/S.F.W-CHAT
+---------------------------
 cd S.F.W-CHAT
 ------------------
 FOR SERVER
